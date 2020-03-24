@@ -1,0 +1,8 @@
+Decorator is a structural design pattern that lets you attach new behaviors to objects 
+by placing these objects inside special wrapper objects that contain the behaviors.
+
+All subclasses of java.io.InputStream, OutputStream, Reader and Writer have constructors that accept objects of their own type.
+
+java.util.Collections, methods checkedXXX(), synchronizedXXX() and unmodifiableXXX().
+
+javax.servlet.http.HttpServletRequestWrapper and HttpServletResponseWrapper
